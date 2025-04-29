@@ -47,6 +47,7 @@ Each module integrates with others for real-time data flow, operational alerts, 
 - Rishabh Pandey  
 - Ethan Mil
 
+---
 
 ### Repository
 View the full repository and documentation on GitHub:  
