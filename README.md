@@ -46,3 +46,8 @@ Each module integrates with others for real-time data flow, operational alerts, 
 ###  Team Members
 - Rishabh Pandey  
 - Ethan Mil
+
+
+### Repository
+View the full repository and documentation on GitHub:  
+[📁 GitHub Repository – VDMS Requirements Engineering]([https://github.com/rishabh06704/vdms-requirements-engineering](https://github.com/rishabh06704/vdms-requirements-engineering))
