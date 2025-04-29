@@ -50,4 +50,4 @@ Each module integrates with others for real-time data flow, operational alerts, 
 
 ### Repository
 View the full repository and documentation on GitHub:  
-[ GitHub Repository – VDMS Requirements Engineering](https://github.com/rishabh06704/vdms-requirements-engineering)
+[GitHub Repository – VDMS Requirements Engineering](https://github.com/rishabh06704/vdms-requirements-engineering)
